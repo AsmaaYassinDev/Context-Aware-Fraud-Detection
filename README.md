@@ -1,7 +1,8 @@
 # Bridging the Contextual Gap: A Behaviour-Based Fraud Detection Prototype
 
-### MSc Data Science Thesis | Ulster University
-**Author:** Asmaa Yassin  
+### MSc Computer Science and Technology with Business Development
+**Ulster University**
+**Author:** Asmaa Yassin
 **Tech Stack:** Python, XGBoost, Pandas, Scikit-Learn
 
 ---
