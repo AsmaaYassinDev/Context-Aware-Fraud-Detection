@@ -1,5 +1,10 @@
-Context-Aware Fraud Detection Framework
-Bridging the Contextual Gap: A Behaviour-Based Approach using Cost-Sensitive XGBoost
-This repository contains the implementation of a Context-Aware Fraud Detection Prototype designed to detect sophisticated "behavioural mimicry" in high-dimensional, stateless financial datasets (IEEE-CIS).
+# Bridging the Contextual Gap: A Behaviour-Based Fraud Detection Prototype
 
-Unlike traditional static models, this framework reconstructs dynamic user profiles from anonymous transaction logs using a novel Entity Resolution protocol and Cost-Sensitive Gradient Boosting.
+### MSc Data Science Thesis | Ulster University
+**Author:** Asmaa Yassin  
+**Tech Stack:** Python, XGBoost, Pandas, Scikit-Learn
+
+---
+
+### 📝 Abstract
+This project addresses the "Contextual Gap" in financial fraud detection by transitioning from static transaction analysis to **dynamic behavioural profiling**. Using the **IEEE-CIS dataset**, we engineered a **Cost-Sensitive Gradient Boosting** framework that achieves a **ROC-AUC of 0.9054**. Key contributions include a deterministic **Entity Resolution** protocol and novel **Time-Behaviour Deviation** features that detect high-velocity mimicry attacks without relying on synthetic data augmentation (SMOTE).
