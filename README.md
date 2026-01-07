@@ -8,4 +8,4 @@
 ---
 
 ### 📝 Abstract
-This project addresses the "Contextual Gap" in financial fraud detection by transitioning from static transaction analysis to **dynamic behavioural profiling**. Using the **IEEE-CIS dataset**, I engineered a **Cost-Sensitive Gradient Boosting** framework that achieves a **ROC-AUC of 0.9054**. Key contributions include a deterministic **Entity Resolution** protocol and novel **Time-Behaviour Deviation** features that detect high-velocity mimicry attacks without relying on synthetic data augmentation (SMOTE).
+This project addresses the **'Contextual Gap'** in financial fraud detection by transitioning from static transaction analysis to **dynamic behavioural profiling**. Using the IEEE-CIS dataset, I engineered a **Cost-Sensitive Gradient Boosting framework** that achieves a **ROC-AUC of 0.9054**. Key contributions include a **deterministic Entity Resolution protocol** and novel **Time-Behaviour Deviation features** that detect **high-velocity mimicry attacks** without relying on **synthetic data augmentation (SMOTE)**.
